@@ -1,4 +1,14 @@
 /*
+ * Copyright (c) 2014 Amlogic, Inc. All rights reserved.
+ *
+ * This source code is subject to the terms and conditions defined in the
+ * file 'LICENSE' which is part of this source code package.
+ *
+ * Description:
+ *
+ */
+
+/*
   * include/uapi/linux/rc_common.h from the kernel directory, but it can be used
   * in kernel and user space.
   *
